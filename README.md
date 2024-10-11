@@ -12,7 +12,7 @@ npm or yarn
 Installation Instructions
 Clone the repository
 
-git clone https://github.com/your-username/geminiClone_React.git
+git clone https://github.com/ManojSurulivel/geminiClone_React.git
 Navigate to the project directory
 
 cd gemini-clone
