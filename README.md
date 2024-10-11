@@ -89,7 +89,7 @@ vite/latest create instructions:
 
    npm create vite@latest
    
-   gemini-clone (Javascript, ReactJs)
+   gemini-clone (project-name) => Javascript, ReactJs
    
    cd gemini-clone
    
