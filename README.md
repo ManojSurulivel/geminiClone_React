@@ -1,4 +1,6 @@
-# Gemini Clone with React + Vite 
+# Frontend Project (React JS)
+
+## Project Name:-  Gemini Clone 
 
 This project is a Gemini clone built using React with Vite.
 
